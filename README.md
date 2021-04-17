@@ -1,2 +1,2 @@
 # repo1
-# I am the owner of repo1 how made his first edit on readme
+# I am the other developer of repo1 how made his first edit on readme
